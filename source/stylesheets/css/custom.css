@@ -1,0 +1,41 @@
+/*
+Enter Here your Custom CSS Style!!
+*/
+
+#OD_Title {
+	background: url(../../images/OD_Title.png) no-repeat scroll 0 0 transparent;
+	background-size: 100%;
+	display: block;
+	height: 30px;
+	width: 250px;
+	float: left;
+	left: 50%;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: -125px;
+}
+
+.about-text {
+	text-align: justify;
+}
+
+.icon-about {
+	display: inline-block;
+	text-align: center;
+	width: 5rem;
+	height: 5rem;
+}
+
+#icon-education {
+	background: url(../../images/education-icon.png) no-repeat scroll 0 0 transparent;
+	background-size: 100%;
+	background-repeat: none;
+	margin-top: 2.5rem;
+}
+
+#icon-experience {
+	background: url(../../images/experience-icon.png) no-repeat scroll 0 0 transparent;
+	background-size: 100%;
+	background-repeat: none;
+	margin-top: 2.5rem;
+}

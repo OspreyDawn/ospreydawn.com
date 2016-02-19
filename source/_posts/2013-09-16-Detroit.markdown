@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'The Detroit Lions'
+date: 2013-09-16 23:04
+description: A redesign of the Detroit Lions NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/NFCN-Detroit.jpg" alt="The Detroit Lions" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+The Detroit Lions I feel are on the right track with their current logo, much like a fair few of other existing logos, but the devil is in the detail, the expressiveness in the execution. I was tempted a few times to focus on the face of the lion or follow in the generic path of an ornamental lion one would see on a coat of arms or some such thing. 
+
+But NFL team logos are about pride or intimidation. Football is a brutal sport and intimidation is key in all things NFL. The best course of action I believed for the Lions was to bring more fluidity and ferocity into the lion; to make it seem as if it were jumping out of the helmet, over the O-Line and to the QB. One of the things I learned greatly from the many iterations I made of this logo was, apart from grasping perspective in motion, knowing just how much and how little detail to put in. The Lions logo was one of the later logos I finished so at this point it was almost second nature but each iteration of the logo was a reminder of how delicate the balancing act is between adding too much and leaving out too little.
+
+{% include custom/disclaimer.html %}

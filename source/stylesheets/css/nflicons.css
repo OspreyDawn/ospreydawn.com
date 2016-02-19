@@ -1,0 +1,301 @@
+a.nflicon {
+   min-width: 128px;  
+   width: 128px;
+}
+
+span.nflicon {
+  display: inline-block;
+  width: 60px;
+}
+
+span.nflicon span {
+  float:left; 
+}
+
+.nflthumb-atlanta {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -64px -240px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-baltimore {
+  background: url(../../assets/images/work/blog/nfl-icons.png) 0px -300px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+ }
+
+.nflthumb-buffalo {
+  background: url(../../assets/images/work/blog/nfl-icons.png) 0px -60px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-arizona {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -192px -240px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-carolina {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -256px -60px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-chicago {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -256px 0px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-cincinnati {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -128px -120px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-cleveland {
+  background: url(../../assets/images/work/blog/nfl-icons.png) 0px 0px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-dallas {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -320px -180px no-repeat;
+  display: inline-block;
+  width: 61px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-denver {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -192px -120px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-detroit {
+  background: url(../../assets/images/work/blog/nfl-icons.png) 0px -240px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-green-bay {
+  background: url(../../assets/images/work/blog/nfl-icons.png) 0px -180px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-houston {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -192px 0px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-indianapolis {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -128px -60px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-jacksonville {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -62px -300px no-repeat;
+  display: inline-block;
+  width: 60px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-kansas-city {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -64px -120px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-miami {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -192px -60px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-minnesota {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -256px -240px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-new-england {
+  background: url(../../assets/images/work/blog/nfl-icons.png) 0px -120px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-new-orleans {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -64px -180px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-new-york-jets {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -320px -60px no-repeat;
+  display: inline-block;
+  width: 61px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-newyork-giants {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -256px -120px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-oakland {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -320px -120px no-repeat;
+  display: inline-block;
+  width: 61px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-philadelphia {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -128px -180px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-pittsburgh {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -128px 0px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-san-diego {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -64px -60px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-san-francisco {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -256px -180px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-seattle {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -320px -240px no-repeat;
+  display: inline-block;
+  width: 61px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-st-louis {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -192px -180px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-tampa-bay {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -320px 0px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-tennessee {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -64px 0px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.nflthumb-washington {
+  background: url(../../assets/images/work/blog/nfl-icons.png) -128px -240px no-repeat;
+  display: inline-block;
+  width: 62px;
+  height: 58px;
+  vertical-align: top;
+  margin-right: 5px;
+}

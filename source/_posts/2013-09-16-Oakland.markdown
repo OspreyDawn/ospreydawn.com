@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'The Oakland Raiders'
+date: 2013-09-16 23:30
+description: A redesign of the Oakland Raiders NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/AFCW-Oakland.jpg" alt="The Oakland Raiders" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+The Raiders fans have quite a reputation, the good side being their fans are devout and eccentric. The fans have become more of a visual defining characteristic of the team. Especially so since the lack of lustre in their team’s recent performance (I hope Terrell changes that sentiment though). The current logo, while classic, though I feel with slight changes could reflect the fan base and bring in new life to the team in terms of intimidation, which the fans have in droves. 
+
+Basically I wanted to keep the basic visuals of the logo the same but update it with Oakland's "colourful" imagery. The football player is now updated with the slick Riddell helmet and the player a grinning skull. The trouble with skulls is that they can come off quite cheesy if they're not done right but as long as the proportions are right you tend to be fine. What I have made, to me (and hopefully Oakland fans too), fits the bill of representing Raiders fandom while ushering in a new feeling of fear.
+
+{% include custom/disclaimer.html %}

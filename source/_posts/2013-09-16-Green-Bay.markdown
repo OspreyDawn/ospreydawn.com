@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'The Green Bay Packers'
+date: 2013-09-16 23:02
+description: A redesign of the Green Bay Packers NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/NFCN-GreenBay.jpg" alt="The Green Bay Packers" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+The hardest part in making these logos is not the creation of them. Making them is comparatively easy once you know what you're doing. The hardest and longest part by far is coming up with the right idea. Sometimes it comes straight away and teams with more specific names only make it easier. For others, it can be brain numbingly difficult. The Green Bay Packers are one such example.
+
+Their logo, the bold green 'G' is unwavering and has stood the test of time. Their fans share the same qualities; proud and loyal. That’s when I realised, the logo shouldn't be a representation of the name (beside the obvious reason of being decidedly awkward) but a testament to the legacy of the team, its history and its home. 
+
+The Packers are an embodiment of the history of Wisconsin and it makes sense to pay homage to it. Looking back at what logos came before the 'G' and the theme is present there too. It only makes sense to continue it. The logo is the state of Wisconsin with a star marking the location of Green Bay overlaid with an interlocking glyph of the letters 'G' and 'B'. Really the logo borrows multiple elements from older logos and different variations put together as a testament to the history of Green Bay.
+
+{% include custom/disclaimer.html %}

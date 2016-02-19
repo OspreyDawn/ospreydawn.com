@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'The Houston Texans'
+date: 2013-09-16 23:21
+description: A redesign of the Houston Texans NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/AFCS-Houston.jpg" alt="The Houston Texans" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+I like the Houston Texans simply because they're the other Texas team. But what the hell is a Texan anyway? A person from Texas? In all seriousness, there isn't too much that can be done with the source material to fit into a sports logo and what they have already is a decent enough iteration. I was tempted to use the star as the central image but there's already another Texas team that has first possession of that and the team already has a strong association with the bull — to deviate would be a disservice.
+
+The logo is, essentially, a more realistic and irate version of the original Texans bull. I even managed to keep the star in the logo in a way that wasn't too gaudy and unnecessary. My only concern would be that it might look too much like the Chicago Bulls to some but I think it has enough difference in the style, angle and colours to differentiate itself.
+
+{% include custom/disclaimer.html %}

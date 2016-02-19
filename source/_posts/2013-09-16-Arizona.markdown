@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'The Arizona Cardinals'
+date: 2013-09-16 23:16
+description: A redesign of the Arizona Cardinals NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/NFCW-Arizona.jpg" alt="The Arizona Cardinals" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+Like the Browns and Lions, I feel sorry for Arizona. Such staunch and loyal the fans must be to muster the season knowing it may not end well for so many years. The outlook is good for Arizona now, despite the ridiculously difficult division they find themselves in. I wanted to give them a an upgrade on the logo they currently have, though making a cardinal look threatening isn't easy. 
+
+I was tempted to try something more tricky like fitting the cardinal shape in to the letter "A" but the more I thought about it the more I just wanted to stay true to what came before and give something for the fans to hold on to. The current logo does look a bit goofy and the cardinal is a bit of a hard sell against a team name like say the Bears or Titans and even I was surprised at how well a staunch cardinal turned out. 
+
+I hope the fans like it as much as I do.
+
+{% include custom/disclaimer.html %}

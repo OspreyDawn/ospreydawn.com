@@ -1,0 +1,22 @@
+---
+layout: post
+title: 'The Carolina Panthers'
+date: 2013-09-16 23:07
+description: A redesign of the Carolina Panthers NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/NFCS-Carolina.jpg" alt="The Carolina Panthers" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+There was the notion that the Carolina Panthers logo is based off the outline of the combined borders of the North and South Carolina states. It seems a bit of a stretch (the wikipedia article has since been altered with the factoid removed) but it makes for a good starting point. Really all I wanted to do with the Panthers logo was to spruce it up like every other team whose logo is that of an animal, but the prospect of making the logo in to the shape of the states in a more clearer way made for a good challenge too.
+
+As it turns out, the Carolina states as they are look anything but a Panther's head but it was surprising how little I really had to change in order to fit it all together. It may not be a complete representation but it made for a good starting point and in the end we still end up with a more ferocious-looking panther.
+
+{% include custom/disclaimer.html %}

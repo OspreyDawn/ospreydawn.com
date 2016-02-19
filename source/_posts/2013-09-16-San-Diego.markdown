@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'The San Diego Chargers'
+date: 2013-09-16 23:31
+description: A redesign of the San Diego Chargers NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/AFCW-SanDiego.jpg" alt="The San Diego Chargers" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+I kind of regret the first iteration I made of the Chargers logo. Everyone but the Chargers fans seemed to like it and after listening to what they had to say I felt I had done an inadequate job. What better time than now to fix that sentiment? The main issue with the previous logo I did was that it had no characteristics that resonate with Chargers fans. That's the danger of using a modernist approach to sports logo design and a mistake I promised not to make this time around. 
+
+The current Chargers logo (heh pun) was one I always found lacking despite the name. The lightning bolt itself doesn't seem well executed and like most things, the more general an idea of how we expect them to look the easier it is for them to fall into the goofy/cheesy category of imagery. I looked again to the past and got inspired by the shield and horse iteration. 
+
+The result is a horse in the shape of the letter 'C' with golden highlights in the shape of lightning bolts. Getting the right colour combination was a hassle but ultimately I'm pretty pleased with this logo (especially the lightning bolt on the forehead) in the way everything blends together without one element taking precedent over the other. The storm horse as I like to call it is up there as one of my favourites and I hope it’s far better suited and up to standard of the Chargers fans themselves.
+
+{% include custom/disclaimer.html %}

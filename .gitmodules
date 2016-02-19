@@ -1,0 +1,3 @@
+[submodule ".themes/ospreydawn"]
+	path = .themes/ospreydawn
+	url = https://github.com/OspreyDawn/ospreydawn.theme.git

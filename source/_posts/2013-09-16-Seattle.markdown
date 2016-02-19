@@ -1,0 +1,21 @@
+---
+layout: post
+title: 'The Seattle Seahawks'
+date: 2013-09-16 23:13
+description: A redesign of the Seattle Seahawks NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/NFCW-Seattle.jpg" alt="The Seattle Seahawks" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+The Seahawks logo looks nothing like an osprey. That's my biggest gripe with the logo (I wonder why that is?). Other than that it has to be one of my current favourites. I love the homage to the Native American ancestry without being offensive (as far as I can tell). With my iteration I tried to retain that styling as much as I could while still trying to make it look like an osprey for obvious reasons. The little flick at one end is more to allude the overall shape to that of a football (like the Eagles one) but also does a nice job of visually pairing the image with the city of Seattle and its geography.
+
+{% include custom/disclaimer.html %}

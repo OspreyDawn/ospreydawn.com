@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'The Denver Broncos'
+date: 2013-09-16 23:29
+description: A redesign of the Denver Broncos NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/AFCW-Denver.jpg" alt="The Denver Broncos" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+The Broncos logo was one I purposefully left to worry about near the end. It was something I'd keep attempting over the months but I wouldn't get anywhere. I knew something was there to be found but it took the whole 5 months before I finally did find anything. I tried mixing it up, going back and forth between something like the old logo to others that were completely different to trying to find a way to put a "D" or "B" in there somewhere. The fact it took me so long to look to the geography of Denver before it clicked still annoys me. 
+
+The initial inspiration came from the Appalachian Mountaineers logo. The idea of an image in the mountain face of the rockies made perfect sense and it seemed like a no-brainer once I thought about it to make the horse head the image in the mountain and the wisp of clouds billowing over the tops as the mane and eye. From a distance a mountain, up close a horse; the perfect combination of name, locale and the visual themes.
+
+{% include custom/disclaimer.html %}

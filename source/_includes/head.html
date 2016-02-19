@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if (IE 9)]><html class="no-js ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+
+{% include custom/head.html %}
+
+<!-- Meta Tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+<meta name="author" content="{{ site.author }}">
+
+{% capture description %}{% if page.description %}{{ page.description }}{% else if site.description %}{{ site.description}}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
+<meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
+{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
+
+<!-- Mobile Specifics -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+<link rel="canonical" href="{{ canonical }}">
+
+<!-- Hype Animation -->
+<meta name="viewport" content="user-scalable=yes, width=211" />
+  
+<!-- Mobile Internet Explorer ClearType Technology -->
+<!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
+
+<!-- Bootstrap -->
+<link href="{{ root_url }}/stylesheets/bootstrap/bootstrap.min.css" rel="stylesheet">
+
+<!-- Main Style -->
+<link href="{{ root_url }}/stylesheets/css/main.css" rel="stylesheet">
+
+<!-- Supersized -->
+<link href="{{ root_url }}/stylesheets/css/supersized.css" rel="stylesheet">
+<link href="{{ root_url }}/stylesheets/css/supersized.shutter.css" rel="stylesheet">
+
+<!-- FancyBox -->
+<link href="{{ root_url }}/stylesheets/css/jquery.fancybox.css" rel="stylesheet">
+
+<!-- Font Icons -->
+<link href="{{ root_url }}/stylesheets/css/fonts.css" rel="stylesheet">
+
+<!-- Shortcodes -->
+<link href="{{ root_url }}/stylesheets/css/shortcodes.css" rel="stylesheet">
+
+<!-- Responsive -->
+<link href="{{ root_url }}/stylesheets/bootstrap/bootstrap-responsive.min.css" rel="stylesheet">
+<link href="{{ root_url }}/stylesheets/css/responsive.css" rel="stylesheet">
+
+<!-- Custom CSS -->
+<link href="{{ root_url }}/stylesheets/css/custom.css" rel="stylesheet">
+
+<!-- ICON CSS -->
+<link href="{{ root_url }}/stylesheets/css/nflicons.css" rel="stylesheet">
+
+<link href="{{ root_url }}/stylesheets/syntax/syntax.css" media="screen, projection" rel="stylesheet" type="text/css">
+
+<!-- Video Embedding -->
+<link href="{{ root_url }}/stylesheets/css/rve-styles.css" rel="stylesheet">
+
+<!-- Google Font -->
+<link href='http://fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+
+<!-- Fav Icon -->
+<link href="{{ root_url }}/favicon.png" rel="icon">
+
+<link rel="shortcut icon" href="#">
+
+<link rel="apple-touch-icon" href="#">
+<link rel="apple-touch-icon" sizes="114x114" href="#">
+<link rel="apple-touch-icon" sizes="72x72" href="#">
+<link rel="apple-touch-icon" sizes="144x144" href="#">
+
+<!-- Modernizr -->
+<script src="{{ root_url }}/javascripts/libs/modernizr.js"></script> 
+
+<link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
+
+{% include google_analytics.html %}
+
+</head>

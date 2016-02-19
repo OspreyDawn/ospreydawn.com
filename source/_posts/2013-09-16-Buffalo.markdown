@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'The Buffalo Bills'
+date: 2013-09-16 23:27
+description: A redesign of the Buffalo Bills NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/AFCE-Buffalo.jpg" alt="The Buffalo Bills" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+With their current logo, the Buffalo Bills could legitimately pass off as the Laser Bisons. Not that it's a bad thing but it sends mixed messages. It's also a very hard name to start with too, Buffalo is the city, the team is called the Bills, named after the famous Buffalo hunter. It's as if shooting themselves is running theme considering their recent history. 
+
+But enough with the jokes: I of course mean no ill will and legitimately have sympathy for them. To have been to four consecutive Super Bowls only to lose to each team in the NFC East (except the Eagles, can't forget that fact) with only the Vikings to know an inkling of their pain. 
+
+I had no idea where to begin with this one so I looked to the past and other renditions some other designers had done. One interesting angle was focusing on the Buffalo skull as a reference to Buffalo Bill himself. I experimented a bit with it but nothing was forthcoming enough to really get me excited about it. What did really inspire me was an old Buffalo Bills logo I found that had a Buffalo charging with a football player next to him playing the role of full back. It also looked as if the Buffalo was the player's spirit animal which was an idea I really took a liking to. 
+
+I decided to completely refurbish the old logo to give it a modern feel and give the player better proportions as I felt it still had the best fit for the Bills, as there is strength in the Bills fans spirit to be loyal for so long and through so many hardships.
+
+{% include custom/disclaimer.html %}

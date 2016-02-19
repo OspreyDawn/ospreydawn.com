@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'The Atlanta Falcons'
+date: 2013-09-16 23:06
+description: A redesign of the Atlanta Falcons NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/NFCS-Atlanta.jpg" alt="The Atlanta Falcons" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+The Atlanta Falcons logo is a good example of a logo that means well and its intent is strong but the executions is debatably suspect. The falcon poised for attack in the shape of a letter "F?" Absolutely brilliant. The actual design itself? Not so much, yet it’s still a slick attempt. If you actually take time to read the logo it becomes very hard to tell if the bird was even a falcon if the team name weren't so synonymous with it and the "F" is barely visible. I wanted to change that. Birds of such menace and awe deserve better.
+
+To be fair I struggled to accomplish the task. I tried a few other angles to look at the bird to at least make some kind of point of difference between myself and what came before. Truth be told the initial position was as good as it was going to get. Even then, that took a while getting right. After numerous attempts and fervent study of the Falcon itself I think I've achieved what would have to be one of my favourite logos out of the lot in terms of a synchronous bond between technical execution and visual themes. The falcon and the "F" are clearly distinguishable.
+
+{% include custom/disclaimer.html %}

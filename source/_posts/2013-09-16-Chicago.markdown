@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'The Chicago Bears'
+date: 2013-09-16 23:01
+description: A redesign of the Chicago Bears NFL Logo
+keywords: [NFL, Illustrations, Logo, Chicago Bears]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/NFCN-Chicago.jpg" alt="The Chicago Bears" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+The Bears are one of the oldest and most decorated of teams in the NFL and have retained their signature navy blue and orange look for as long as they have been on the gridiron. For the most part their logo has remained unchanged with them; but one of my little grievances has always been because of this fact. They are the namesake of one the most fearsome mammals in the United States, yet none of their on-field imagery reflects this.
+
+I am fully aware of the alternate logo, but it seems like a waste to squander such an opportunity to have it in the primary imagery. But alas, with the time that has passed the orange C' has been etched forever into history. Its legacy will never fade and it would be disrespectful to discard it completely.  And therein lay the challenge—to make a logo that retained and honoured the team’s history but with more relevant imagery to their ursine brethren.
+
+With any logo, there must be a key iconic shape so that even from a distance that element stands out above all and is instantly recognisable. Right from the beginning of developing this logo I knew I wanted the Chicago 'C' to remain that key shape. Right from the beginning I wanted to use the 'C' to form the teeth of the bear to visually pair the city and it's team with one of the bear's deadliest weapons. It took a few iterations to get it just right but overall the main idea never changed.
+
+{% include custom/disclaimer.html %}

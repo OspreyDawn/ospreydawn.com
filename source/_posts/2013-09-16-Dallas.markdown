@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'The Dallas Cowboys'
+date: 2013-09-16 23:11
+description: A redesign of the Dallas Cowboys NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/NFCE-Dallas.jpg" alt="The Dallas Cowboys" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+It pains me to admit that the Cowboys were the first logo where I feel like I nailed the styling of the logos moving forward (it was the first one, period), but I'm a football fan first and a Giants fan second. If I do a shit job of my rivals logos on purpose then I'm a shit football fan and despite my hate for this team goddamn do I respect them. I hope they go under .250 this season. Every season.
+
+The Dallas blue star is up there with the rest as one of the iconic symbols of football. How do you improve upon something so simple? You don't, but I had this idea and I wanted to try it out, and it worked out as perfectly as I hoped it would. It's one of the few times where the translation from my mind to execution was seamless (excuse me from blowing my own trumpet I'm just pretty happy with it). Don't change something iconic if you can help it. The star remains as the focus — all I did was slap Clint Eastwood's face in there in a way that didn't interfere with the key shape. It's stoic and bold, much like the Cowboys’ history itself.
+
+{% include custom/disclaimer.html %}

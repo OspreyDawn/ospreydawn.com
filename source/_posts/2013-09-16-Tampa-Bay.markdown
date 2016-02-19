@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'The Tampa Bay Buccaneers'
+date: 2013-09-16 23:08
+description: A redesign of the Tampa Bay Buccaneers NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/NFCS-TampaBay.jpg" alt="The Tampa Bay Buccaneers" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+Tampa was one of the original few designs I did earlier that inspired the full team run of this logo redesign series and in turn one of the main reason I chose to redo it again. A peculiar thing happened when I last presented the older logos. In most cases the majority of NFL fans liked the logos I had done… except for the fans of the said team for each respective logo. After a bit of digging, questioning and listening it was blatantly clear each fan base has a distinct association they have with their team, their name and what they represent. Which is fair, they should know, it's their team. If the fan base doesn't like what I've made for them then I haven't done my job right. So I took it as a further challenge which was another driving factor for doing this whole thing.
+
+With my initial design I thought I was being clever putting a cutlass encased in a black skull to look like its mouth. The problem, the fans said, there was nothing in the logo from a first glance that elicits the notion of 'pirates.' I went straight in with the assumption that what I had was enough but sure enough, I feel the fans were right. Plus had all the fans been happy the rest of these logos might not have been as thoroughly thought out.
+
+While restarting with the Buccaneers I found an interesting quote about the old Bucs logo:
+
+*Sports writer and commentator Nick Bakay once said that Buccaneer Bruce [the old logo] was a pirate who "struck fear in the hearts of no one."*
+
+I found this quite humorous and thought, since the Bucs have seen one side of the pirate, why not try to go for the other, darker side? I wanted this new logo to scare the crap out of the other team in the same way the jolly roger would as it would appear bearing out of the ocean mist. I tried multiple different angles, looked a variety of different skulls and positions all trying to achieve that sense of horror. What I ended up with achieves that I think, even if the skull seems a bit sadistic—I guess it just adds to the effect. And of course the tricorne and cutlasses for extra added pirate imagery. It’s as if Buccaneer Bruce came back from the dead to make Bakay eat his words.
+
+{% include custom/disclaimer.html %}

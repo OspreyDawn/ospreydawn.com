@@ -1,0 +1,21 @@
+---
+layout: post
+title: 'The St. Louis Rams'
+date: 2013-09-16 23:15
+description: A redesign of the St. Louis Rams NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/NFCW-StLouis.jpg" alt="The St. Louis Rams" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+Personally I feel the Rams have the greatest get-up in the league at the moment but the logo has always come off as borderline corny. Rams are fierce creatures and I think the current logo kind of makes it comical that when a ram gets pissed it becomes crazy stupid. I tried to give the Rams logo more subtlety with its ferocity, to make it intimidating as it stares down upon its enemies, plus I couldn't resist making an inkling of the letter "R" out of the horns. It seemed like too good of an opportunity to pass up.
+
+{% include custom/disclaimer.html %}

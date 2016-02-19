@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'The Miami Dolphins'
+date: 2013-09-16 23:28
+description: A redesign of the Miami Dolphins NFL Logo
+keywords: [NFL, Illustrations, Logo, Team Name]
+comments: false
+categories: [NFL, Graphic Design, Logo]
+published: true
+sharing: true
+---
+
+<div class="post-thumb">
+    <img src="{{ root_url }}/assets/images/work/blog/AFCE-Miami.jpg" alt="The Miami Dolphins" />
+</div>
+
+{% include custom/nfl-series.html %}
+
+The Dolphins logo here is essentially the same as the one I did a year ago albeit a good example of what a difference 5 months of sparingly dedicated time can do to one's technical skills. The Dolphins had their new logo arrive this year too while I was in the process of making my own. 
+
+While I think the new one is a nice rendition, it's lost a bit of its character present in the previous goofy football-helmet-touting dolphin. I wanted to find a middle ground, after all making a dolphin intimidating is quite the challenge. The dolphin's shape is loosely in the shape of the letter 'D' and the colours have been updated to the new ones. I've made it look as threatening as I could without it coming off too cheesy and/or ridiculous.
+
+{% include custom/disclaimer.html %}
